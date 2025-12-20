@@ -1,5 +1,7 @@
 # JUST FUCKING USE...
 
+![](/screenshots/01.png)
+
 This site is managed by [Skiff](https://github.com/basecamp/kamal-skiff).
 
 ## Local development
