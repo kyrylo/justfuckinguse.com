@@ -1,5 +1,9 @@
 # JUST FUCKING USE...
 
+**Retired on October 21, 2026.** The hosted site has been shut down and this
+project is no longer maintained. The source remains available for reference
+under the MIT license. The instructions below describe the former setup.
+
 ![](/screenshots/01.png)
 
 This site is managed by [Skiff](https://github.com/basecamp/kamal-skiff).
